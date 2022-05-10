@@ -1,0 +1,2 @@
+class SchedulesActivities < ApplicationRecord
+end
